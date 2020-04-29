@@ -24,13 +24,14 @@ This is provided just to understand the goal of this test, no CSS is required fo
 ## Goal
 A Pull request to this repository with a working form upload that parses the provided CSV correctly. Documentation and tests are recommended.
 
-# Tips
-Feel free to skip some parts if you are out of time, but comment out what is missing and add a super short explanation on how would you handle it.
-
 ## We are looking for:
  - Maintainable and testable code
  - Unit/acceptance/feature tests if deemed necessary
  - Separation of concern
  - Use common practices
+
+## Tips
+Feel free to skip some parts if you are out of time, but comment out what is missing and add a super short explanation on how would you handle it.
+
 
 Good luck 🙂
