@@ -33,4 +33,4 @@ Feel free to skip some parts if you are out of time, but comment out what is mis
  - Separation of concern
  - Use common practices
 
-Good luck :)
+Good luck 🙂
