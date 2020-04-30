@@ -22,7 +22,7 @@ Dataset is available in this repo and is taken from here: https://www.kaggle.com
 This is provided just to understand the goal of this test, no CSS is required for this test, and it doesn't have to look like the provided design. The design file is in this repository.
 
 ## Goal
-A Pull request to this repository with a working form upload that parses the provided CSV correctly. Documentation and tests are recommended.
+A public repository link with a working form upload that parses the provided CSV correctly. Documentation and tests are recommended.
 
 ## We are looking for:
  - Maintainable and testable code
