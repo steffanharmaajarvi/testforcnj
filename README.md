@@ -16,7 +16,7 @@ The estimated time frame for completion of this test is 4-6 hours. Please keep t
  - If the optional checkbox is ticked it inserts the data into the database (this part is **optional**)
  - On data upload show the average of all prices sold, count of all houses sold, number of crimes in 2011, and the average price per year in the London area (check provided image)
  
-Dataset is available in this repo and is taken from here: https://www.kaggle.com/justinas/housing-in-london/data
+The dataset is available in this repo and is taken from here: https://www.kaggle.com/justinas/housing-in-london/data
  
 ## Design/Wireframe
 This is provided just to understand the goal of this test, no CSS is required for this test, and it doesn't have to look like the provided design. The design file is in this repository.
@@ -31,7 +31,7 @@ A public repository link with a working form upload that parses the provided CSV
  - Use common Laravel/React/Vue practices
 
 ## Tips
-Feel free to skip some parts if you are out of time, but comment out what is missing and add a super short explanation on how would you handle it.
+Feel free to skip some parts if you are out of time, but comment out what is missing and add a super short explanation on how would you handle it. If something is not specified feel free to make assumptions.
 
 
 Good luck 🙂
